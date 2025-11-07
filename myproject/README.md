@@ -74,6 +74,7 @@ python manage.py migrate
 ## Want me to do more?
 
 I can:
+
 - generate a fresh secure SECRET_KEY and add a helper script to create `.env` for you,
 - add `requirements.txt`,
 - scaffold a starter TODO app with models, views, templates, and tests.
